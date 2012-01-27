@@ -1,0 +1,6 @@
+<?php
+
+return array(
+    'client_id'     => 123456789,
+    'client_secret' => 'secret key',
+);

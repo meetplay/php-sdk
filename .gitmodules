@@ -1,0 +1,6 @@
+[submodule "vendor/oauth2-php"]
+	path = vendor/oauth2-php
+	url = git://github.com/arnaud-lb/oauth2-php.git
+[submodule "vendor/SplClassLoader"]
+	path = vendor/SplClassLoader
+	url = git://gist.github.com/221634.git
